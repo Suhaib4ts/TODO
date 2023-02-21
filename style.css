@@ -1,0 +1,48 @@
+#maindiv {
+    width: 60%;
+    margin: 0 auto;
+    text-align: center;
+}
+header {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+header h1 {
+    margin: 10px;
+}
+input[type="text"] {
+    padding: 10px;
+    font-size: 16px;
+    margin-right: 10px;
+}
+button {
+    padding: 10px 20px;
+    background-color: black;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 5px;
+}
+h2 {
+    margin-bottom: 20px;
+}
+.divs {
+    display: inline-block;
+    margin-right: 10px;
+}
+#tasks {
+    padding: 10px;
+    background-color: #e0e0e0;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    width: 80%;
+    text-align: left;
+    display: inline-block;
+}
+#main {
+    width: 100%;
+    text-align: left;
+}
